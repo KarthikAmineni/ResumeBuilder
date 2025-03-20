@@ -46,6 +46,3 @@ Resume Optimizer is a web application that helps users generate AI-enhanced resu
 
 ## **Contributors**  
 Developed by **Karthik**  
-
----  
-Let me know if you need modifications! 🚀
